@@ -4,6 +4,7 @@ Arquivos:
 - index.html: apresentação institucional e contato
 - projetos.html: projetos, doações e voluntariado
 - cadastro.html: formulário com fieldset, legend e validações HTML5
+- css/styles.css (Design System, Grid, Flexbox, responsividade e componentes de feedback)
 - imagens/: assets em PNG, JPG e WebP
 
 Observação:
